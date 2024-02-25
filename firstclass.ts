@@ -1,1 +1,2 @@
-console.log("Aftab Barkat")
+let personName: string = "Aftab Barkat"
+console.log("Hello, "+personName+"!")
